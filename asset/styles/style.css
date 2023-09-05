@@ -15,6 +15,7 @@ p {
   align-items: center;
   font-size: 50px;
 }
+
 .content {
   display: grid;
   grid-template-columns: auto auto auto;
